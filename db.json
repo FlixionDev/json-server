@@ -281,13 +281,6 @@
 		"price": "104.44",
 		"image_1": "http://dummyimage.com/217x100.png/ff4444/ffffff",
 		"image_2": "http://dummyimage.com/172x100.png/dddddd/000000"
-	  },
-	  {
-		"id": 20,
-		"title": "Honorable",
-		"price": "138.09",
-		"image_1": "http://dummyimage.com/249x100.png/cc0000/ffffff",
-		"image_2": "http://dummyimage.com/237x100.png/ff4444/ffffff"
 	  }
 	],
 	"clothing": [
